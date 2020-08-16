@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">BLOOD CARE</string>
+    <string name="blood_care">Blood Care</string>
+    <string name="register_msg">Register</string>
+
+    <string name="add_details">Add Hospital Details</string>
+    <string name="user_name">User Name</string>
+    <string name="login">Login</string>
+    <string name="add_h_details">Add Hospital Details</string>
+    <string name="edit_theme_view">Edit Hospitals Details</string>
+
+
+    <string name="upcoming_events">upcoming events</string>
+    <string name="fund">Fund</string>
+    <string name="hospitals">Hospitals</string>
+    <string name="blood_bank">Blood Bank</string>
+    <string name="view_donators">View Donators</string>
+    <string name="register_as_a_donator">Register as a Donator</string>
+    <string name="manage_upcoming_events">Manage Upcoming Events</string>
+    <string name="manage_hospitals">Manage Hospitals</string>
+    <string name="manage_fund">Manage Fund</string>
+
+    <string name="add_h_name">Name:</string>
+    <string name="add_mob_no">Mob No:</string>
+    <string name="add_district">District:</string>
+    <string name="add_email">Email:</string>
+
+    <string name="add_hos_name">St.Maria Hospital</string>
+    <string name="add_mob_no_value">0112657321</string>
+    <string name="add_district_value">Kaluthara</string>
+    <string name="add_email_value">maria@gmail.com</string>
+
+    <string name="edit_name">Name:</string>
+    <string name="edit_mob_no">Mob No:</string>
+    <string name="edit_email">Email:</string>
+    <string name="edit_district">District:</string>
+
+    <string name="edit_hos_name">St.Maria Hospital</string>
+    <string name="edit_mob_no_value">0112657321</string>
+    <string name="edit_district_value">Kaluthara</string>
+    <string name="edit_email_value">maria@gmail.com</string>
+
+    <string name="v_name">Name:</string>
+    <string name="v_mob">Mob No:</string>
+    <string name="v_district">District:</string>
+    <string name="v_email">Email:</string>
+
+    <string name="view_hos_name">St.Maria Hospital</string>
+    <string name="view_mob_no_value">0112657321</string>
+    <string name="view_district_value">Kaluthara</string>
+    <string name="view_email_value">maria@gmail.com</string>
+
+
+    <string name="card_view_hos_name">ABC</string>
+    <string name="card_view_mo">015657531</string>
+
+
+    <string name="search_hos">Enter District</string>
+</resources>
