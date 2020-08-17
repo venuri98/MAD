@@ -1,0 +1,32 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Blood Care</string>
+    <string name="add_upcoming_event1" tools:ignore="DuplicateDefinition">Add Upcoming Event</string>
+    <string name="notice1">Notice</string>
+    <string name="view_details">View Details</string>
+    <string name="add_details">Add Details</string>
+    <string name="edit_upcoming_event">Edit Upcoming Event</string>
+    <string name="textview">TextView</string>
+    <string name="notice2">Notice</string>
+    <string name="update_details">Update Details</string>
+    <string name="delete_details">Delete Details</string>
+    <string name="add_upcoming_event2">Add Upcoming Event</string>
+    <string name="there_will_be_an_blood_donation_campaing_at_9_00_am">There will be an blood donation campaing at 9.00 am.</string>
+    <string name="event1">Event</string>
+    <string name="there_will_be_an_blood_donation_program_will_be_held_on_16_th_of_september_at_10_00_am">There will be an blood donation program will be held on 16 th of September at 10.00 am.</string>
+    <string name="there_will_be_an_blood_donation_camping_at_9_00_am">There will be an blood donation camping at 9.00 am</string>
+    <string name="event2">Event</string>
+    <string name="button">Button</string>
+    <string name="a_13_a_18_b_24_b_19_o_05_o_07">A+ 13 A- 18 B+ 24 B- 19 O+ 05 O- 07</string>
+    <string name="search">Search</string>
+    <string name="blood_group">Blood Group</string>
+    <string name="a_18">A- 18</string>
+    <string name="b_19">B- 19</string>
+    <string name="a_13">A+ 13</string>
+    <string name="o_07">O- 07</string>
+    <string name="b_24">B+ 24</string>
+    <string name="o_05">O+ 05</string>
+    <string name="ab_12">AB+ 12</string>
+    <string name="ab_11">AB- 11</string>
+    <string name="add_upcoming_event">Add Upcoming Event</string>
+    <string name="there_will_be_an_blood_donation_camping_at_9_30_am">There will be an blood donation camping at 9.30 am.</string>
+</resources>
